@@ -6,3 +6,9 @@ This project depends on the since deprecated Slick2D openGL graphics library. Th
 Here: http://slick.ninjacave.com/
 
 
+Screenshots:
+
+![alt text](https://raw.githubusercontent.com/nparker202/graphicsparticles/master/screenshot1.png)
+
+
+
