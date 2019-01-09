@@ -8,6 +8,6 @@ Here: http://slick.ninjacave.com/
 
 Screenshots:
 
-![Image Gather](https://raw.githubusercontent.com/nparker202/graphicsparticles/master/screenshot1.jpg)
+![Image Gather](https://raw.githubusercontent.com/nparker2020/graphicsparticles/master/screenshot1.jpg)
 
 
