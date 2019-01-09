@@ -10,7 +10,7 @@ Screenshots:
 
 ![Image Gather](https://raw.githubusercontent.com/nparker2020/graphicsparticles/master/screenshot1.jpg)
 
-![Image Gather](https://raw.githubusercontent.com/nparker2020/graphicsparticles/master/screenshot2jpg)
+![Image Gather](https://raw.githubusercontent.com/nparker2020/graphicsparticles/master/screenshot2.jpg)
 
 ![Image Gather](https://raw.githubusercontent.com/nparker2020/graphicsparticles/master/screenshot3.jpg)
 
